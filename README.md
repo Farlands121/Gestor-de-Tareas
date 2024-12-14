@@ -34,3 +34,7 @@ Listar Tareas: Las tareas aparecerán en una lista, indicando su estado (pendien
 Marcar como Completada: Selecciona una tarea de la lista y haz clic en "Marcar como Completada".
 
 Eliminar Completadas: Haz clic en "Eliminar Tareas Completadas" para limpiar la lista.
+
+
+# Capturas de Funsionamiento
+https://github.com/Farlands121/Gestor-de-Tareas/blob/main/Capturas%20de%20Funsionamiento/Captura%20de%20pantalla%202024-12-14%20095735.png
