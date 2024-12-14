@@ -37,4 +37,4 @@ Eliminar Completadas: Haz clic en "Eliminar Tareas Completadas" para limpiar la 
 
 
 # Capturas de Funsionamiento
-https://github.com/Farlands121/Gestor-de-Tareas/blob/main/Capturas%20de%20Funsionamiento/Captura%20de%20pantalla%202024-12-14%20095735.png
+[https://github.com/Farlands121/Gestor-de-Tareas/blob/main/Capturas%20de%20Funsionamiento/Captura%20de%20pantalla%202024-12-14%20095735.png](https://github.com/Farlands121/Gestor-de-Tareas/tree/main/Capturas%20de%20Funsionamiento)
