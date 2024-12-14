@@ -15,19 +15,22 @@ Python 3.8 o superior: Asegúrate de tener Python instalado en tu sistema. Desca
 Módulos de Python:
 SQLAlchemy: Manejo de la base de datos.
 Tkinter: Interfaz gráfica (incluido por defecto en Python).
-Instala las dependencias ejecutando:
-pip install sqlalchemy
-
 
 # Estructura del Proyecto
 gestor-de-tareas/
+
 │
 ├── app_gui.py        # Archivo principal con la interfaz gráfica
+
 ├── tasks.db          # Base de datos SQLite (se genera automáticamente)
+
 ├── README.md         # Documentación del proyecto
 
 # Cómo Usar
 Agregar Tareas: Introduce un título y una descripción, luego haz clic en "Agregar Tarea".
+
 Listar Tareas: Las tareas aparecerán en una lista, indicando su estado (pendiente o completada).
+
 Marcar como Completada: Selecciona una tarea de la lista y haz clic en "Marcar como Completada".
+
 Eliminar Completadas: Haz clic en "Eliminar Tareas Completadas" para limpiar la lista.
